@@ -22,4 +22,5 @@ Based on Kaggle Airline Customer Satisfaction Data
 * Shap 패키지를 이용한 feature의 영향 분석
 ![shap](./img/그림1.png)
 <br/> 
+
 ![shap2](./img/그림2.png)
