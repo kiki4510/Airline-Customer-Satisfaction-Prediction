@@ -20,4 +20,4 @@ Based on Kaggle Airline Customer Satisfaction Data
 * 별도의 교차 검증 없이도 8만개의 데이터로 데이터의 크기가 충분하다.
 ## 모델 해석
 * Shap 패키지를 이용한 feature의 영향 분석
-![shap](uploads/C:\Users\USER\Downloads\그림1.png)
+![shap](uploads/C:\Users\USER\Downloads\그림1.PNG)
